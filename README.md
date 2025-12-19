@@ -9,7 +9,6 @@ The project demonstrates:
 - Target achievement tracking  
 - Region-wise performance comparison  
 - Interactive dashboards using **Pivot Tables, Slicers, and Macros**  
-
 ---
 
 ## 🗂 Dataset Details
