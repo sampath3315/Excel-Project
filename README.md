@@ -36,7 +36,7 @@ Sheet Name: `RAW DATA`
   
 
 ## 📸 Dashboard Preview
-
+# Excel Data Overview 📊(https://github.com/sampath3315/Excel-Project/blob/main/Screenshot%202025-12-19%20141220.png)
 ### Total Dashboard
 ![Region Slicer](https://github.com/sampath3315/Excel-Project/blob/main/Screenshot%202025-12-19%20162252.png)
 
