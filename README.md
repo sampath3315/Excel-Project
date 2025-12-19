@@ -145,5 +145,5 @@ All charts are dynamically linked to Pivot Tables and slicers.
 
 ## 📌 Author
 **Sampath Reddy**  
-🎓 Computer Science & IT  
+🎓 Computer Science & Information Technology  
 🎯 Aspiring Data Analyst
