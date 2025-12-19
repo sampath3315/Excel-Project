@@ -41,7 +41,7 @@ Sheet Name: `RAW DATA`
 ![Dashboard Overview]()
 
 ### Region-wise Analysis using Slicer
-![Region Slicer](screenshots/region_slicer.png)
+![Region Slicer]()
 
 ### Target vs Achievement Analysis
 ![Target Analysis](screenshots/target_analysis.png)
