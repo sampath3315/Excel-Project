@@ -35,16 +35,6 @@ Sheet Name: `RAW DATA`
 - **Away From Target %**
   
 
-## 📸 Dashboard Preview
-
-### Overall Dashboard
-![Dashboard Overview](https://github.com/sampath3315/Excel-Project/blob/main/Screenshot%202025-12-19%20141220.png)
-
-### Region-wise Analysis using Slicer
-![Region Slicer](screenshots/region_slicer.png)
-
-### Target vs Achievement Analysis
-![Target Analysis](screenshots/target_analysis.png)
 
 
 ---
