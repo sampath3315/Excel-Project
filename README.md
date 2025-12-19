@@ -35,6 +35,17 @@ Sheet Name: `RAW DATA`
 - **Away From Target %**
   
 
+## 📸 Dashboard Preview
+
+### Overall Dashboard
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Region-wise Analysis using Slicer
+![Region Slicer](screenshots/region_slicer.png)
+
+### Target vs Achievement Analysis
+![Target Analysis](screenshots/target_analysis.png)
+
 
 ---
 
