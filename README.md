@@ -38,7 +38,7 @@ Sheet Name: `RAW DATA`
 ## 📸 Dashboard Preview
 
 ### Overall Dashboard
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](https://github.com/sampath3315/Excel-Project/blob/main/Screenshot%202025-12-19%20141220.png)
 
 ### Region-wise Analysis using Slicer
 ![Region Slicer](screenshots/region_slicer.png)
